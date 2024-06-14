@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasmin Nicole Inneh</h1>
 <h3 align="center">A passionate Fullstack developer from Miami, Florida.</h3>
 
-- 🔭 I’m currently working on [Nutrition Tracker Website - Nourish Nav](https://github.com/KeziaBernardNau/NourishNav)
+- 🔭 I’m currently working on [StoryWorld Adventures -Youth Educational Application](https://github.com/JasminInneh/Story-World-Adventures)
 
 - 🌱 I’m currently learning **Testing with Jest**
 
