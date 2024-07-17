@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jasmin Nicole Inneh</h1>
 <h3 align="center">A passionate Fullstack developer from Miami, Florida.</h3>
 
-- 🔭 I’m currently working on [StoryWorld Adventures -Youth Educational Application](https://github.com/JasminInneh/Story-World-Adventures)
+- 🔭 I’m currently working on [StoryWorld Adventures -Youth Educational Application](https://github.com/JasminInneh/StoryWorldAdventures)
 
 - 🌱 I’m currently learning **Testing with Jest**
 
-- 👯 I’m looking to collaborate on [StoryWorld Adventures -Youth Educational Application](https://github.com/JasminInneh/Story-World-Adventures)
+- 👯 I’m looking to collaborate on [StoryWorld Adventures -Youth Educational Application]([https://github.com/JasminInneh/Story-World-Adventures](https://github.com/JasminInneh/StoryWorldAdventures))
 
-- 🤝 I’m looking for help with [https://github.com/JasminInneh/TextBasedPortfolio](https://github.com/JasminInneh/TextBasedPortfolio)
+- 🤝 I’m looking for help with [https://github.com/JasminInneh/StoryWorldAdventures]
 
 - 👨‍💻 All of my projects are available at [https://github.com/JasminInneh/TextBasedPortfolio](https://github.com/JasminInneh/TextBasedPortfolio)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/mhl4i4f3hc](https://flowcv.com/resume/mhl4i4f3hc)
 
-- ⚡ Fun fact **I once was Science Fiction Author**
+- ⚡ Fun fact **I like to compete in races.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
