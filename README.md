@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 About Me
+### 👩🏾‍💻 About Me
 
 Hi! I’m Jasmin — a Miami-based fullstack developer, educator, and creative technologist. I blend the worlds of code, education, and design to build joyful learning experiences.
 
@@ -53,7 +53,7 @@ Hi! I’m Jasmin — a Miami-based fullstack developer, educator, and creative t
 
 ---
 
-### 🌈 Fun Fact
+### 😝 Fun Fact
 
 I grew up playing dominos and now I play it online thanks to JavaScript. Full circle, baby 🌀🎉
 
